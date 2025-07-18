@@ -9,3 +9,4 @@ public class AgrodigitalApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AgrodigitalApplication.class, args);
 	}
+}

@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  mysql:
+    image: mysql:8
+    container_name: agrodigital-mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: agrodigital
+      MYSQL_USER: agrouser
+      MYSQL_PASSWORD: agropass
+    ports:
+      - "3307:3306"  # 3307 local → 3306 container
+    volumes:
+      - mysql_data:/var/lib/mysql
+    networks:
+      - agrodigital-net
+
+  backend:
+    build: .
+    container_name: agrodigital-api
+    ports:
+      - "8080:8080"
+    environment:
+      DB_URL: jdbc:mysql://mysql:3306/agrodigital?useSSL=false&serverTimezone=UTC
+      DB_USER: agrouser
+      DB_PASS: agropass
+      PORT: 8080
+    depends_on:
+      - mysql
+    networks:
+      - agrodigital-net
+
+volumes:
+  mysql_data:
+
+networks:
+  agrodigital-net:
