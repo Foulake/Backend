@@ -4,7 +4,166 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c0ccbf2-51b4-4681-a1d6-594c98d33e23" name="Changes" comment="" />
+    <list default="true" id="0c0ccbf2-51b4-4681-a1d6-594c98d33e23" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/AgrodigitalApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/AgrodigitalApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/config/ApplicationConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/config/ApplicationConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/config/CorsConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/config/CorsConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/config/JwtAuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/config/JwtAuthenticationFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/config/JwtService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/config/JwtService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/config/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/controller/AccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/controller/AccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/controller/ActiviteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/controller/ActiviteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/controller/ApiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/controller/ApiController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/controller/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/controller/ChampController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/controller/ChampController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/controller/EntrepriseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/controller/EntrepriseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/controller/LocaliteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/controller/LocaliteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/controller/MagasinController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/controller/MagasinController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/controller/PlanificationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/controller/PlanificationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/controller/RecolteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/controller/RecolteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/controller/SensorController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/controller/SensorController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/controller/SortieProduitController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/controller/SortieProduitController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/controller/SousChampController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/controller/SousChampController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/controller/TakePhotoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/controller/TakePhotoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ActiviteRequestDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ActiviteRequestDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ActiviteResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ActiviteResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ApiResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ApiResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/AppResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/AppResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/AuthenticateRequest$AuthenticateRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/AuthenticateRequest$AuthenticateRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/AuthenticateRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/AuthenticateRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/AuthenticateResponse$AuthenticateResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/AuthenticateResponse$AuthenticateResponseBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/AuthenticateResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/AuthenticateResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/CategoryRequestDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/CategoryRequestDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/CategoryResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/CategoryResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ChampRequestDto$ChampRequestDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ChampRequestDto$ChampRequestDtoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ChampRequestDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ChampRequestDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ChampResponseDto$ChampResponseDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ChampResponseDto$ChampResponseDtoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ChampResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ChampResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ChangerPaswword$ChangerPaswwordBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ChangerPaswword$ChangerPaswwordBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ChangerPaswword.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ChangerPaswword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ConfigData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ConfigData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/EntrepriseRequestDto$EntrepriseRequestDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/EntrepriseRequestDto$EntrepriseRequestDtoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/EntrepriseRequestDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/EntrepriseRequestDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/EntrepriseResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/EntrepriseResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/EntrepriseUserDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/EntrepriseUserDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ErrorDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ErrorDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ForgotPwd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ForgotPwd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/LocaliteRequestDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/LocaliteRequestDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/LocaliteResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/LocaliteResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/MagasinRequestDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/MagasinRequestDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/MagasinResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/MagasinResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/MailBody$MailBodyBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/MailBody$MailBodyBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/MailBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/MailBody.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/PageResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/PageResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/PlanificationRequestDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/PlanificationRequestDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/PlanificationResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/PlanificationResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ProductRequestDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ProductRequestDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ProductResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ProductResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/RecolteRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/RecolteRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/RecolteResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/RecolteResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/RegisterRequest$RegisterRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/RegisterRequest$RegisterRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/RegisterRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/RegisterRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ResetPassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/ResetPassword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/RoleForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/RoleForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/SensorData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/SensorData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/SortieDto$SortieDtoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/SortieDto$SortieDtoBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/SortieDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/SortieDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/SortieResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/SortieResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/SousChampRequestDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/SousChampRequestDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/SousChampResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/SousChampResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/StatusForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/StatusForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/dto/TypeSortie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/dto/TypeSortie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/event/AccountEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/event/AccountEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/event/listener/AccountEventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/event/listener/AccountEventListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/exception/ApiException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/exception/ApiException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/exception/ApiExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/exception/ApiExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/exception/ResourceNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/exception/ResourceNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/mapper/Mapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/mapper/Mapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/Activite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/Activite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/BaseEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/Champ.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/Champ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/ConfigHistory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/ConfigHistory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/Entreprise$EntrepriseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/Entreprise$EntrepriseBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/Entreprise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/Entreprise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/ForgotPassword$ForgotPasswordBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/ForgotPassword$ForgotPasswordBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/ForgotPassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/ForgotPassword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/Localite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/Localite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/Magasin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/Magasin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/Planification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/Planification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/Recolte$RecolteBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/Recolte$RecolteBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/Recolte.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/Recolte.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/Role$RoleBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/Role$RoleBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/SensorDataEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/SensorDataEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/SortieProduit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/SortieProduit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/SousChamp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/SousChamp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/User$UserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/User$UserBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/VerificationPwdToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/VerificationPwdToken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/model/VerificationToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/model/VerificationToken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/ActiviteRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/ActiviteRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/CategoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/CategoryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/ChampRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/ChampRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/ConfigHistoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/ConfigHistoryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/EntrepriseRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/EntrepriseRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/ForgotPasswordRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/ForgotPasswordRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/LocaliteRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/LocaliteRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/MagasinRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/MagasinRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/PlanificationRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/PlanificationRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/PlaningRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/PlaningRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/ProductRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/RecolteRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/RecolteRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/RoleRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/RoleRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/SensorDataRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/SensorDataRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/SortieProduitRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/SortieProduitRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/SousChampRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/SousChampRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/TokenPwdRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/TokenPwdRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/TokenRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/TokenRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/ActiviteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/ActiviteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/AuthService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/ChampService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/ChampService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/EntrepriseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/EntrepriseService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/FileService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/FileService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/LocaliteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/LocaliteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/MagasinService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/MagasinService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/MailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/MailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/PlanificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/PlanificationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/RecolteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/RecolteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/SortieProduitService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/SortieProduitService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/SousChampService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/SousChampService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/ActiviteServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/ActiviteServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/AlertServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/AlertServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/ChampServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/ChampServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/EntrepriseServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/EntrepriseServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/EntrepriseUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/EntrepriseUserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/FileServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/FileServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/LocaliteServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/LocaliteServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/MagasinServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/MagasinServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/PlanificationServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/PlanificationServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/RecolteServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/RecolteServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/SortieServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/SortieServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/SousChampServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/service/impl/SousChampServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/utils/AppConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/utils/AppConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/team/dev/utils/ExtendedUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/team/dev/utils/ExtendedUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/doc.dockerignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.team.dev.AgrodigitalApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.team.dev.AgrodigitalApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/team/dev/AgrodigitalApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/team/dev/AgrodigitalApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/team/dev/service/impl/ChampServiceImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/team/dev/service/impl/ChampServiceImplTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,31 +188,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Notification.DisplayName-DoNotAsk-JavaScript: Code Vision Performance&quot;: &quot;JavaScript: code vision performance watcher&quot;,
-    &quot;Notification.DoNotAsk-JavaScript: Code Vision Performance&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;javascript.karma.karma_node_package_dir&quot;: &quot;C:/Users/YAYA SIDIBE/Desktop/memoire/agro/frontend/node_modules/@angular/cli&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/YAYA SIDIBE/Desktop/GestionRevenu&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;50534b118f20a1958ccddb12a75fa873&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\YAYA SIDIBE\\Desktop\\memoire\\agro\\frontend\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-JavaScript: Code Vision Performance": "JavaScript: code vision performance watcher",
+    "Notification.DoNotAsk-JavaScript: Code Vision Performance": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "javascript.karma.karma_node_package_dir": "C:/Users/YAYA SIDIBE/Desktop/memoire/agro/frontend/node_modules/@angular/cli",
+    "last_opened_file_path": "C:/Users/YAYA SIDIBE/Desktop/Backend/Backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsDialog.application.dockerMachine",
+    "show.migrate.to.gradle.popup": "false",
+    "spring.configuration.checksum": "50534b118f20a1958ccddb12a75fa873",
+    "ts.external.directory.path": "C:\\Users\\YAYA SIDIBE\\Desktop\\memoire\\agro\\frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Spring Boot.AgrodigitalApplication">
     <configuration name="Tests (coreui-free-angular-admin-template)" type="JavaScriptTestRunnerKarma">
       <config-file value="$PROJECT_DIR$/frontend/karma.conf.js" />
@@ -129,11 +292,50 @@
       <workItem from="1750849073321" duration="199000" />
       <workItem from="1750865354591" duration="867000" />
       <workItem from="1752014334780" duration="2188000" />
+      <workItem from="1753046595094" duration="3629000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/agro$AgrodigitalApplication.ic" NAME="AgrodigitalApplication Coverage Results" MODIFIED="1747437099699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
