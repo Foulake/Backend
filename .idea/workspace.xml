@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c0ccbf2-51b4-4681-a1d6-594c98d33e23" name="Changes" comment="fichier jar" />
+    <list default="true" id="0c0ccbf2-51b4-4681-a1d6-594c98d33e23" name="Changes" comment="fichier jar">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +100,9 @@
       </method>
     </configuration>
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
-      <deployment type="dockerfile" />
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
       <method v="2" />
     </configuration>
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -146,7 +151,8 @@
       <workItem from="1753046595094" duration="6100000" />
       <workItem from="1753056770603" duration="3786000" />
       <workItem from="1753132088582" duration="1217000" />
-      <workItem from="1753135334722" duration="2900000" />
+      <workItem from="1753135334722" duration="3128000" />
+      <workItem from="1753141679700" duration="1130000" />
     </task>
     <task id="LOCAL-00001" summary="fichier jar">
       <created>1753051381396</created>
