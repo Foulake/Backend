@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0c0ccbf2-51b4-4681-a1d6-594c98d33e23" name="Changes" comment="fichier jar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/render.yaml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,7 +154,7 @@
       <workItem from="1753056770603" duration="3786000" />
       <workItem from="1753132088582" duration="1217000" />
       <workItem from="1753135334722" duration="3128000" />
-      <workItem from="1753141679700" duration="1130000" />
+      <workItem from="1753141679700" duration="2839000" />
     </task>
     <task id="LOCAL-00001" summary="fichier jar">
       <created>1753051381396</created>
