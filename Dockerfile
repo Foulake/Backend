@@ -5,7 +5,6 @@ WORKDIR /app
 # Copier les fichiers nécessaires
 COPY pom.xml .
 COPY src ./src
-COPY application.properties ./src/main/resources/application.properties
 
 # Compiler l'application sans les tests
 RUN mvn clean package -DskipTests
